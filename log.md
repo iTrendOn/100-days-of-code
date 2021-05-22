@@ -11,22 +11,33 @@
 - Reviewed [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 -
 
-**Thoughts:** I really struggled to start with the challenge and organize myself, but, overall, I feel like this is the only way to refresh rusted skills and keep the pace with the large amount of material to cover during the course.
+**Thoughts:**
+- I really struggled to start with the challenge and organize myself, but, overall, I feel like this is the only way to refresh rusted skills and keep the pace with the large amount of material to cover during the course.
 
 **Link to work:**
-- [Calculator App](http://www.example.com)
+- [R1D1 Commit](https://github.com/iTrendOn/100-days-of-code/commit/6b2e50c50ed4551d2c2cfa2555c81001fc25d65e)
 - 
 
 
 ---
 
-<!-- ### Day 2: May 22, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 2: May 22, 2021
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**:
+- Installed [RISE](https://rise.readthedocs.io/en/stable/installation.html) in one of my Anaconda environments.
+- Installed [Pandas](https://pandas.pydata.org/getting_started.html) and [Pandas-Datareader](https://pandas-datareader.readthedocs.io/en/latest/index.html#quick-start).
+- Started to work on a program to connect to [Binance](https://en.wikipedia.org/wiki/Binance) cryptocurrency exchange. - This first App was based in several YouTube videos:
+-- [Python Binance API, Dashboards & Data Science Tutorial](https://www.youtube.com/watch?v=RHqEPNgpbzQ).
+-- [Binance API Tutorial in Python](https://www.youtube.com/watch?v=3uxAn7EBSS0)
 
-**Link(s) to work**: [Calculator App](http://www.example.com) -->
+**Thoughts**:
+- I need to continue with basic tutorials and build the habit of coding every day (at least 1 hour). Not easy. I work on a technical field/environment (ERP Software) but not as a developer, so is really hard for me to work on coding stuff after my workday ends.
+- Watched an interesting video about the [Modern Portfolio Theory (MPT)](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) applied to crypto. I hope we cover this during the course.
+- In addition to [The Python Quants](https://home.tpq.io/certificates/) certificates programs, I need to review and consider during the practical (coding) excercises the material for the [MFIA](https://www.institutobme.es/esp/FIA/AcercaDe/QueEs.aspx) certification.
+
+**Link(s) to work**:
+- [Calculator App](http://www.example.com) 
 
 
 <!-- ### Day 3: May 23, 2021
