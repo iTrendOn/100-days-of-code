@@ -16,7 +16,6 @@
 
 **Link to work:**
 - [R1D1 Commit](https://github.com/iTrendOn/100-days-of-code/commit/6b2e50c50ed4551d2c2cfa2555c81001fc25d65e)
-- 
 
 
 ---
@@ -33,11 +32,32 @@
 
 **Thoughts**:
 - I need to continue with basic tutorials and build the habit of coding every day (at least 1 hour). Not easy. I work on a technical field/environment (ERP Software) but not as a developer, so is really hard for me to work on coding stuff after my workday ends.
-- Watched an interesting video about the [Modern Portfolio Theory (MPT)](https://www.investopedia.com/terms/m/modernportfoliotheory.asp) applied to crypto. I hope we cover this during the course.
+- Watched some interesting videos about the "Perfect Portfolio" including models/theories as [Modern Portfolio Theory (MPT)](https://www.investopedia.com/terms/m/modernportfoliotheory.asp), whick could be nice to apply to crypto. I hope we cover this during the course.
+  - https://www.youtube.com/watch?v=3uJbHREmUs4&list=PLo6vaVhDK1cPdWo23OMaQzBaJK7uSsIDE
+
 - In addition to [The Python Quants](https://home.tpq.io/certificates/) certificates programs, I need to review and consider during the practical (coding) excercises the material for the [MFIA](https://www.institutobme.es/esp/FIA/AcercaDe/QueEs.aspx) certification.
 
 **Link(s) to work**:
-- [Calculator App](http://www.example.com) 
+- [Calculator App](http://www.example.com)
+
+
+---
+
+
+### Day 3: May 23, 2021
+
+**Today's Progress**:
+- Installed [Plotly](https://plotly.com/python/getting-started/) and [Binance-Python](https://python-binance.readthedocs.io/en/latest/overview.html).
+- Splitted yesterday's app in two Jupyter notebooks: one for the Yahoo and one for the Binance API [Binance](https://en.wikipedia.org/wiki/Binance).
+- Still following these videos:
+-- [Python Binance API, Dashboards & Data Science Tutorial](https://www.youtube.com/watch?v=RHqEPNgpbzQ).
+-- [Binance API Tutorial in Python](https://www.youtube.com/watch?v=3uxAn7EBSS0)
+
+**Thoughts**:
+- Continued working with basic Python tutorials and building the habit of daly programming.
+
+**Link(s) to work**:
+- Github commit in https://github.com/iTrendOn/100-days-of-code
 
 
 <!-- ### Day 3: May 23, 2021
