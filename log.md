@@ -38,7 +38,8 @@
 - In addition to [The Python Quants](https://home.tpq.io/certificates/) certificates programs, I need to review and consider during the practical (coding) excercises the material for the [MFIA](https://www.institutobme.es/esp/FIA/AcercaDe/QueEs.aspx) certification.
 
 **Link(s) to work**:
-- [Calculator App](http://www.example.com)
+- Github commit in https://github.com/iTrendOn/100-days-of-code
+- [R1D2 Commit](https://github.com/iTrendOn/100-days-of-code/commit/f36d13420403a4ef4f6a28cf4bae253a3a32a60c)
 
 
 ---
@@ -58,17 +59,23 @@
 
 **Link(s) to work**:
 - Github commit in https://github.com/iTrendOn/100-days-of-code
+- [R1D3 Commit](https://github.com/iTrendOn/100-days-of-code/commit/9b6365619add15ced22431ebb3c447d83c72388a)
 
 
-<!-- ### Day 3: May 23, 2021
+---
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 4: May 24, 2021
+
+**Today's Progress**: Continued with Binance example. Added plotly table object. Tried to use other API calls: Time stamp error APIError(code=-1021).
+
+**Thoughts**
+- Problem with timestamp needs to be investigated/solved in order to use other API methods/calls.
+- Need to review this StackOverflow post:  https://stackoverflow.com/questions/48412482/binance-rest-api-timestamp-for-this-request-is-outside-of-the-recvwindow
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+- Github commit in https://github.com/iTrendOn/100-days-of-code
+- [R1D4 Commit](https://github.com/iTrendOn/100-days-of-code/commit/a0a705fc103bed545632d32f45b6c4d3c49c6682)
 
 <!-- ### Day 4: May 24, 2021
 
