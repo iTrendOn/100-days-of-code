@@ -77,14 +77,24 @@
 - Github commit in https://github.com/iTrendOn/100-days-of-code
 - [R1D4 Commit](https://github.com/iTrendOn/100-days-of-code/commit/a0a705fc103bed545632d32f45b6c4d3c49c6682)
 
-<!-- ### Day 4: May 24, 2021
+
+---
 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 5: May 26, 2021
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com) -->
+**Today's Progress**:
+- Continued with Binance example. Grouped code in function to make it reusable. Also, added JSON requests.
+
+**Thoughts**:
+- Still need to investigate timestamp issue.
+- Hard to keep the daily routine.
+- Need to find time for TPQ Math Notebooks. 
+
+**Link(s) to work**:
+- Github commit in https://github.com/iTrendOn/100-days-of-code
+- [R1D5 Commit](https://github.com/iTrendOn/100-days-of-code/commit/d589ba09c837c52b1daf72ddd1aebe9971b2cc31)
 
 
 <!-- ### Day 5: May 25, 2021
