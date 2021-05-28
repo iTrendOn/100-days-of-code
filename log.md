@@ -97,12 +97,20 @@
 - [R1D5 Commit](https://github.com/iTrendOn/100-days-of-code/commit/d589ba09c837c52b1daf72ddd1aebe9971b2cc31)
 
 
-<!-- ### Day 5: May 25, 2021
+---
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 6: May 28, 2021
+
+**Today's Progress**: Created a notebook that reads "csv" file from Binance history. Added some transformations to columns and pivot table.
+
+**Thoughts**
+- In the future the idea is to read directly through Binance API calls.
+- More calculations are required in order to estimate tax figures, totals and sub-totals.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+- Github commit in https://github.com/iTrendOn/100-days-of-code
+- [R1D4 Commit](https://github.com/iTrendOn/100-days-of-code/commit/46add8f2e2ddee32c8736106028cdb4ad84a2113)
+
+
+---
